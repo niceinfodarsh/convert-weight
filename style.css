@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(8, 141, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#inputkg {
+    height: 25px;
+    width: 255px;
+    outline-color: rgb(0, 37, 139);
+    outline-width: 15px;
+    background-color: aqua;
+    color: blue;
+    border-radius: 10px;
+}
+#inputpound {
+    height: 25px;
+    width: 255px;
+    outline-color: rgb(0, 37, 139);
+    outline-width: 15px;
+    background-color: aqua;
+    color: blue;
+    border-radius: 10px;
+}
+#calc {
+    width: 105px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
+#calcc {
+    width: 105px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
